@@ -1,0 +1,18 @@
+Creating Graphs through Graphviz
+
+What is Graphviz?
+Graphviz is open source graph visualization software. Graph visualization is a way of representing structural information as diagrams of abstract graphs and networks. It has important applications in networking, bioinformatics,  software engineering, database and web design, machine learning, and in visual interfaces for other technical domains. 
+
+Installation  of Graphviz in Linux systems:-
+Command:- sudo apt-get install graphviz
+
+Code should be written in such a manner that it will create the .dot file and on the basis of which graph can be created.
+
+Creating graph(.png format) from text file(.dot extension):-
+Command:- dot -Tpng -O sample.dot.txt
+
+Opening the graph
+Command:- xdg-open sample.dot.txt.png
+
+
+Directed and undirected graphs can be made through graphviz.
