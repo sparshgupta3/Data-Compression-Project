@@ -1,0 +1,46 @@
+List of Earlier Projects
+
+1) HAMILTONIAN PATH :Analysis and implementation of algorithm
+
+2) AIRCRAFT LANDING PROBLEM: Efficient Algorithm For Given Landing Sequence
+
+3) Implementation of erasure coding to prevent data loss
+
+4) Burrows Wheeler Transform
+
+5) BLACKJACK: A MINIMUM RISK ALGORITHM
+
+6) A variant of connected components labelling in Images
+
+7) Study Fringe Search algorithm
+
+8) The Knapsack Algorithm and Public Key Cryptography
+
+9) Image Segmentation using Minimal Graph Cut
+
+10) FLIGHT_PLANNER
+
+11) Speech Recognition
+12) How a Robot will play Tetris
+
+13) Applications of Artificial Intelligence and Learning in Othello (using techniques involving dynamic programming)
+
+14) Min-Max, Alpha-Beta Pruning, and Viterbi Algorithms
+
+15) Course Selection Algorithm
+
+16) Graph Puzzle Solver
+
+17) Pattern Matching in DNA/RNA Sequences
+
+18) Travelling Salesman Problem
+
+19) To detect plagiarism between two files, by finding the percentage similarity
+
+20) Implementation of various algorithms and sorting techniques in Image Processing and their comparisons
+
+21) Flight travel and Assembly line scheduling
+
+22) The delivery boy problem
+
+23) Play with graphs

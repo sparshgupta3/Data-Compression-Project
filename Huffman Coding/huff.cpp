@@ -215,4 +215,4 @@ int main()
 
 	return 0; 
 } 
-//6 a 5 b 9 c 12 d 13 e 16 f 45
+//6 a 45 b 13 c 12 d 16 e 9 f 5
